@@ -1,0 +1,475 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    height: 174px;
+    padding: 65px 165px 65px 165px;
+
+}
+.logototal{
+    display: flex;
+    width:132.7px ;
+    height: 25px;
+}
+
+.logotext{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    display: flex;
+    font-weight: bold;
+    color: rgba(35, 44, 80, 1);
+    padding-left: 10px;
+    align-items: center;
+    font-size: 25px;
+}
+
+.contacto{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    width: 134px;
+    height: 44px;
+    background-color: #8B48BF;
+    color: white;
+
+      /* Sombreado */
+    box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.25);
+}
+.contacto:hover{
+
+    background-color: rgba(139, 72, 191, 0.7);
+    
+    color: white;
+
+      /* Sombreado */
+    box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.25);
+}
+.menu{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    list-style: none;
+    display: flex;
+}
+li{
+padding-right: 28px;
+}
+li:hover{
+    color:rgba(36, 46, 82, 0.6);
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    padding: 86px 0px 95.93px;
+}
+.mensaje{
+    width: 450px;
+    height: 399px;
+    text-align: right;
+    padding-left: 151px;
+}
+h1{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 39.21px;
+}
+h3{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.005em;
+    text-align: left;
+    
+}
+h4{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.24px;
+}
+p{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 16.56px;
+    line-height: 24.18px;
+}
+.morado{
+    display: flex;
+    justify-content: center;
+    background-color: #8B48BF;
+    color: white;
+    height:168px;
+    padding: 40px 0px 40px 0px;
+
+}
+
+.title2{
+    width: 450px;
+    height: 88px;
+    padding-right: 100px;
+}
+.text2{
+    width: 450px;
+    height: 88px;
+
+}
+.button01{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    text-align: center;
+    padding: 10px 25px 0px;
+    margin-right: 20px;
+    border-radius: 30px;
+    border: none;
+    width: 70px;
+    height: 43px;
+    background-color: #8B48BF;
+    color: white;
+    font-size: 16px;
+}
+.button01:hover{
+    background-color: rgba(139, 72, 191, 0.7);
+
+}
+.button02{
+    
+    font-family: 'Be Vietnam Pro', sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    width: 134px;
+    height: 44px;
+    background-color: #8B48BF;
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19px;
+    text-align: center;
+    
+}
+.button02:hover{
+    background-color: rgba(139, 72, 191, 0.7);
+
+}
+.up{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0 24px;
+
+}
+.fondos{
+    display: flex;
+
+}
+.tarjinfo{
+    display: flex;
+    flex-direction: column;
+}
+.info{
+    width: 530px;
+    height: 162px;
+    text-align: left;
+    padding-left: 90px;
+}
+.textinfo{
+    color: #B3B2B7;
+}
+.down{
+    display: flex;
+    justify-content:center;
+    padding: 0 0 40px ;
+
+}
+.month{
+    color: #242E53;
+    text-align: center;
+    font-weight: 700;
+    line-height: 156.6%;
+    letter-spacing: -0.392px;
+}
+.bestmonth{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 350px;
+}
+.tarjeta{
+    width: 403px;
+    height: 237px;
+    margin-right: 30px;
+}
+.rectangles{
+    width: 445px;
+    height: 180px;
+    padding-top: 50px;
+    background-color:rgba(250, 250, 250, 1);
+    
+}
+.imagenes{
+    border-radius: 40px;
+    overflow: hidden;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 30px;
+    left: 190px;
+    z-index: 3;  
+}
+.More{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+.morado2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #8B48BF;
+    color: white;
+    height:168px;
+    padding: 40px 0px 40px 0px;
+}
+.title3{
+    width: 500px;
+    height: 96px;
+}
+.button03{
+    
+    font-family: 'Be Vietnam Pro', sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    width: 134px;
+    height: 44px;
+    background-color: white;
+    color: #8B48BF;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19px;
+    text-align: center;
+    /* Sombreado */
+    box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.25);
+    
+}
+.button03:hover{
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+.button2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.downfoot{
+    display: flex;
+    justify-content: space-around;
+    padding: 54px 0 43.15px;
+    background-color:rgba(30, 30, 38, 1);
+}
+.logotext2{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    display: flex;
+    font-weight: bold;
+    color: white;
+    padding-left: 10px;
+    align-items: center;
+    font-size: 25px;
+}
+.logred {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.redes{
+    padding-bottom: 24.11px;
+    padding-right:20px ;
+}
+.lista2 {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    list-style: none;
+    color: white;
+    
+}
+.lista2 li{
+    margin-bottom: 20px;
+}
+.inbox{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    width: 201px;
+    height: 44px;
+    margin-right: 10px;
+    text-align: left;
+    border-radius: 50px;
+}
+.formcopy{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.copy{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 12.5px;
+    font-weight: 500;
+    color: #B3B2B7;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 80%;
+}
+.cajacopy{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color:rgba(30, 30, 38, 1);
+}
+.hamburguer{
+    display: none;
+}
+.text480{
+    display: none;
+}
+@media (max-width: 500px) {
+    header{
+        display: flex;
+        justify-content: space-around;
+        height: 174px;
+        padding: 65px 0px 0px 0px;
+    
+    }
+    .menu{
+        display: none;
+    }
+    .contacto{
+        display: none;
+    }
+    .hamburguer{
+        display: block;
+    
+    }
+    .banner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .imagen1{
+        background-image: url(img\image 2.png);
+    }
+    .mensaje {
+        max-width: 100vw;
+        height: auto;
+        text-align: right;
+        padding-left: 0px;
+    }
+    .morado{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color:rgba(60, 221, 243, 1);
+        color: white;
+        height:306px;
+        padding: 40px, 20px, 40px, 20px;
+    
+    }
+    .text2{
+        display: none;
+    }
+    .text480{
+        display: flex;
+        text-align: left;
+        width: 440px;
+        height: 88px;      
+    }
+    .up{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 40px 0 24px;
+    
+    }
+    .fondos{
+        background-color: rgba(139, 72, 191, 0.3);
+        display: flex;
+        align-items: normal;
+    }
+    .info{
+        width: 428px;
+        height: 162px;
+        text-align: left;
+        padding-left: 23px;
+    }
+    .down{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0 0 40px ;
+    
+    }
+    .button01{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .tarjeta:nth-child(odd) {
+        display: none;
+    }
+    .morado2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color:rgba(60, 221, 243, 1);
+        height:306px;
+        padding: 40px, 20px, 40px, 20px;
+        text-align: center;
+    }
+    .title3{
+        position: relative;
+        width: 324px;
+        height: 192px;
+        left: 80px;
+
+    }
+    .button03{
+        position: relative;
+        left: 170px;
+    }
+    .downfoot{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-around;
+        padding: 54px 0 43.15px;
+        background-color:rgba(30, 30, 38, 1);
+    }
+    form{
+        display: flex;
+        justify-content: center;
+        
+    }
+    .inbox{
+        width: 308px;
+        height: 44px;
+        margin-right: 10px;
+
+    }
+    .copy{
+        font-family: 'Be Vietnam Pro', sans-serif;
+        font-size: 12.5px;
+        font-weight: 500;
+        color: #B3B2B7;
+        display: flex;
+        justify-content: flex-start;
+        position: relative;
+        left: 25%;
+    }
+    .listas2{
+        display: flex;
+        justify-content: space-between;
+    }
+    .logred{
+        flex-direction: column-reverse;
+    }
+    .logred .logototal{
+        margin-top: 10%;
+        margin-left: 35%;  
+    }
+    .redes{
+        margin-left: 10%;
+    }
+}
